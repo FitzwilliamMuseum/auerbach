@@ -21,8 +21,8 @@
 title: "Frank Auerbach"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "The Fitzwilliam Museum's complete collection of Frank Auerbach's prints was 
-  initiated in 1994 with the gift of two etchings from Ruth and Joseph Bromberg in 
+  "The Fitzwilliam Museum's complete collection of Frank Auerbach's prints was
+  initiated in 1994 with the gift of two etchings from Ruth and Joseph Bromberg in
   memory of their son Michael. "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://auerbach.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,6 +30,7 @@ twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: ""
 main_url: 'https://fitzmuseum.cam.ac.uk'
+data_url: 'https://data.fitzmuseum.cam.ac.uk/id/object/'
 google_analytics: 'G-2R0YLY9DRS'
 # Build settings
 plugins:
@@ -45,19 +46,12 @@ plugins:
   - jekyll-mentions
 
 collections:
-   exhibition:
+   works:
       output: true
-   about:
+   content:
       output: true
-   resources:
+   eras:
       output: true
-   team:
-      output: true
-   blog:
-      output: true
-feed:
-  collections:
-    - blog
 
 timezone: Europe/London
 permalink: pretty
