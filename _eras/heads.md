@@ -1,5 +1,5 @@
 ---
-title: Six Etchings of Heads 1980-2
+title: Six Etchings of Heads
 permalink: /eras/six-etchings
 layout: default
 era: 'heads'
