@@ -1,7 +1,7 @@
 ---
 ---
 {
-    {% for entry in site.posts %}
+    {% for entry in site.works %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
@@ -11,7 +11,7 @@
             "image": "{{ entry.image | xml_escape }}"
         },
     {% endfor %}
-    {% for entry in site.exhibition %}
+    {% for entry in site.content %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
             "url": "{{ entry.url | xml_escape }}",
