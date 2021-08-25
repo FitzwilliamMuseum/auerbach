@@ -1,6 +1,6 @@
 ---
 title: Seven Portraits
-permalink: /eras/six-etchings
+permalink: /eras/seven-portraits
 layout: default
 era: 'seven'
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp28/preview_P_20_2000.jpg
