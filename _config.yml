@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Site title"
-email: "crsid@cam.ac.uk"
+title: "Frank Auerbach"
+email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
-baseurl: "/reponame" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  "The Fitzwilliam Museum's complete collection of Frank Auerbach's prints was 
+  initiated in 1994 with the gift of two etchings from Ruth and Joseph Bromberg in 
+  memory of their son Michael. "
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://auerbach.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: ""
