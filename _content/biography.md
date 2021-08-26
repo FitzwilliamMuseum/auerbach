@@ -1,7 +1,7 @@
 ---
 title: Frank Auerbach biography
 layout: default
-permalink: /biography/
+permalink: /biography
 ---
 1931 Born in Berlin
 

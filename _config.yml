@@ -52,7 +52,8 @@ collections:
       output: true
    eras:
       output: true
-
+   methods:
+      output: true
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About the exhibition
-permalink: /about/
+permalink: /about
 ---
 
 The Fitzwilliam Museum's complete collection of Frank Auerbach's prints was initiated in 1994 with the gift of two etchings from Ruth and Joseph Bromberg in memory of their son Michael. The collection was then transformed by the extraordinary donation from James Kirkman of the remainder of the artist's prints to date (together with two sketchbooks). The Fitzwilliam has been able to keep the collection up to date into the twenty first century entirely due to Frank Auerbach himself, who has donated an impression of each new print on completion.

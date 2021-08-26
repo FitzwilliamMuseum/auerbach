@@ -2,6 +2,7 @@
 title: Printmaking techniques
 permalink: /methods/printmaking-techniques
 layout: default
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp28/preview_P_18_2000.jpg
 ---
 
 ## Etching
