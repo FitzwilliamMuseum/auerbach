@@ -3,6 +3,7 @@ title: Frank Auerbach biography
 layout: default
 permalink: /biography
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp28/preview_P_26_2000.jpg
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp28/preview_P_26_2000.jpg
 ---
 1931 Born in Berlin
 
